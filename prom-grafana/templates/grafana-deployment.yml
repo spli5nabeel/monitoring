@@ -16,7 +16,8 @@ spec:
     spec:
       containers:
       - name: grafana-con
-        image: monitoringartist/grafana-xxl:latest
+        #image: monitoringartist/grafana-xxl:latest
+        image: grafana/grafana
         ports:
         - containerPort: 3000
         volumeMounts:
