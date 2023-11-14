@@ -6,7 +6,6 @@ metadata:
   labels:
     env: dev
 spec:
-  storageClassName: manual
   accessModes:
   - ReadWriteOnce
   resources:
