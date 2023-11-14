@@ -1,5 +1,0 @@
-apiVersion: v1
-name: prom-grafana
-version: 0.1
-appversion: 1.0
-description: Integration of prometheus and grafana
